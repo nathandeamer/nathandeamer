@@ -1,6 +1,6 @@
 # Hi, I'm Nathan
 
-![Visitors](https://vbr.wocr.tk/badge?page_id=nathandeamer.nathandeamer&style=for-the-badge&logo=Github) 
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=nathandeamer.nathandeamer&style=for-the-badge&logo=Github) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nathandeamer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathandeamer/)
 
